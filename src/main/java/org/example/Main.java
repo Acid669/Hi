@@ -6,5 +6,9 @@ public class Main {
         System.out.println("Hello and welcome!");
         System.out.println("Hola en español!");
 
+        int suma = 5 + 8;
+        System.out.println("El resultado es:" + suma);
+
+
     }
 }
